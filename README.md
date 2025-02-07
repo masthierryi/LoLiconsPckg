@@ -1,2 +1,4 @@
 # LoLiconsPckg
-A package that let you use LoL icons on LaTeX (non-oficial)
+A package that let you use League of Legends icons (not lolicons, pls, understand🙏) on LaTeX.
+
+on development.
